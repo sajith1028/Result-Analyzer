@@ -1,0 +1,89 @@
+Name of the Examination
+Third Year
+Batch
+2014/2015
+Semester
+I
+Year of the Examination
+2018
+Paper Name
+Game Development (SCS 3113)
+SNo
+Index No
+Result
+1
+15000095
+A-
+2
+15000109
+B-
+3
+15000443
+B-
+4
+15000451
+A-
+5
+15000542
+A-
+6
+15000664
+A
+7
+15000672
+B-
+8
+15000753
+B+
+9
+15000771
+A
+10
+15000788
+B-
+11
+15000869
+B-
+12
+15000877
+A
+13
+15000893
+A
+14
+15000931
+B-
+15
+15000941
+A
+16
+15001067
+B-
+17
+15001105
+A
+18
+15001245
+B+
+19
+15001271
+F
+20
+15001466
+A-
+21
+15001504
+A-
+22
+15001563
+C+
+23
+12001465
+C
+24
+14000148
+A
+University of Colombo School of Computing
+Computer Science
+Final Gradings
+These Results are released subject to confirmation by the Board

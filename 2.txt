@@ -1,0 +1,35 @@
+Name of the Examination
+Third Year
+Batch
+2014/2015
+Semester
+I
+Year of the Examination
+2018
+Paper Name
+Advanced Computer Architecture (SCS 3102)
+SNo
+Index No
+Result
+1
+15000133
+C
+2
+15000621
+D
+3
+15000771
+A
+4
+15000788
+D
+5
+15000893
+B-
+6
+14000466
+C+
+University of Colombo School of Computing
+Computer Science
+Final Gradings
+These Results are released subject to confirmation by the Board
